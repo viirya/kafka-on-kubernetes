@@ -1,6 +1,6 @@
 # kafka-on-kubernetes
 
-Running Kafka on Kubernetes. The is based on https://github.com/Yolean/kubernetes-kafka. The original repo looks complicated and contains many stuffs not sure to work or not. This repo simplifies it to only contain Kubernetes manifest that is necessary for running a Kafka cluster on Kubernetes.
+Running Kafka on Kubernetes. The is based on https://github.com/Yolean/kubernetes-kafka. The original repo looks complicated and contains many stuffs not sure to work or not. How to generate the docker images is also undocumented. This repo simplifies it to only contain Kubernetes manifest that is necessary for running a Kafka cluster on Kubernetes. This repo also provides clear steps to generate the needed docker images and launch Kafka cluster on Kubernetes.
 
 ## Docker images
 
