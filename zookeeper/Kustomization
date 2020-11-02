@@ -1,0 +1,9 @@
+namespace: spark-test
+
+resources:
+- 10zookeeper-config.yml
+- 20pzoo-service.yml
+- 21zoo-service.yml
+- 30service.yml
+- 50pzoo.yml
+- 51zoo.yml
